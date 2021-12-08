@@ -13,5 +13,5 @@ export default function Bubble() {
     }
     console.log(arr);
   };
-  return <div>{bubble([9, 34, 1, 5, 6, 29, 22, 11])}</div>;
+  return <div>{/* {bubble([9, 34, 1, 5, 6, 29, 22, 11])} */}</div>;
 }

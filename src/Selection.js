@@ -16,5 +16,5 @@ export default function Selection() {
     }
   };
 
-  return <div>{select([8, 5, 2, 9, 5, 6, 3])}</div>;
+  return <div>{/* {select([8, 5, 2, 9, 5, 6, 3])} */}</div>;
 }

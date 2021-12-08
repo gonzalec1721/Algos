@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import Bubble from "./Bubble.js";
 import Selection from "./Selection.js";
+import Anagrams from "./Anagrams";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <Anagrams />
       <Bubble />
       <Selection />
     </div>
