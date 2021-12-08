@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Bubble from "./Bubble.js";
+import Selection from "./Selection.js";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         </a>
       </header>
       <Bubble />
+      <Selection />
     </div>
   );
 }
